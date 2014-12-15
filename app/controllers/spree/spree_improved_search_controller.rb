@@ -1,5 +1,5 @@
 module Spree
-  class BetterSearchController < Spree::BaseController
+  class SpreeImprovedSearchController < Spree::BaseController
 
   	def product_search
   		@taxonomies = Spree::Taxonomy.all

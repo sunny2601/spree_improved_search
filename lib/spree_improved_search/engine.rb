@@ -2,7 +2,7 @@ module SpreeBetterSpreeSearch
   class Engine < Rails::Engine
     require 'spree/core'
     isolate_namespace Spree
-    engine_name 'spree_better_spree_search'
+    engine_name 'spree_improved_search'
 
     # use rspec for tests
     config.generators do |g|
