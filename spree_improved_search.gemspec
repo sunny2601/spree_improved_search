@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_improved_search'
-  s.version     = '2.3.4.1'
+  s.version     = '2.3.4.2'
   s.summary     = 'Better search for Spree stores'
   s.description = 'Better search for Spree stores'
   s.required_ruby_version = '>= 1.9.3'
